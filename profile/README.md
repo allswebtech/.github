@@ -12,6 +12,7 @@ agents and automation into the tools a business already uses, and make our own s
 | Project | What it is |
 |---|---|
 | [**TRouteAI**](https://github.com/allswebtech/trouteai) | An open-source, self-hosted AI gateway. It routes, manages and optimizes several LLM providers behind one OpenAI- and Anthropic-compatible API. Also on [npm](https://www.npmjs.com/package/trouteai). |
+| [**S3 Storage Manager**](https://github.com/allswebtech/s3-storage-manager) | A web file manager for Amazon S3 and S3-compatible storage that runs entirely in the browser. [Live demo](https://s3.allsweb.net). |
 | [**.IN Registry WHMCS module**](https://github.com/allswebtech/inregistry-registrars-whmcs-module) | A WHMCS registrar module that connects accredited registrars to the .IN Registry (NIXI) over EPP. |
 
 ## Products and services
